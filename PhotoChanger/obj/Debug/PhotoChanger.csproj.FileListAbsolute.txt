@@ -1,0 +1,10 @@
+C:\Users\Lance\source\repos\PhotoChanger\PhotoChanger\bin\Debug\PhotoChanger.exe.config
+C:\Users\Lance\source\repos\PhotoChanger\PhotoChanger\bin\Debug\PhotoChanger.exe
+C:\Users\Lance\source\repos\PhotoChanger\PhotoChanger\bin\Debug\PhotoChanger.pdb
+C:\Users\Lance\source\repos\PhotoChanger\PhotoChanger\obj\Debug\PhotoChanger.csprojAssemblyReference.cache
+C:\Users\Lance\source\repos\PhotoChanger\PhotoChanger\obj\Debug\PhotoChanger.Form1.resources
+C:\Users\Lance\source\repos\PhotoChanger\PhotoChanger\obj\Debug\PhotoChanger.Properties.Resources.resources
+C:\Users\Lance\source\repos\PhotoChanger\PhotoChanger\obj\Debug\PhotoChanger.csproj.GenerateResource.cache
+C:\Users\Lance\source\repos\PhotoChanger\PhotoChanger\obj\Debug\PhotoChanger.csproj.CoreCompileInputs.cache
+C:\Users\Lance\source\repos\PhotoChanger\PhotoChanger\obj\Debug\PhotoChanger.exe
+C:\Users\Lance\source\repos\PhotoChanger\PhotoChanger\obj\Debug\PhotoChanger.pdb
